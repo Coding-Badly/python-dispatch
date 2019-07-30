@@ -20,7 +20,7 @@ pip install python-dispatch
 | -------------:|:-------------------------------------------- |
 | Project Home  | https://github.com/nocarryr/python-dispatch  |
 | PyPI          | https://pypi.python.org/pypi/python-dispatch |
-| Documentation | https://nocarryr.github.io/python-dispatch   |
+| Documentation | https://python-dispatch.readthedocs.io       |
 
 
 ## Usage
@@ -87,3 +87,15 @@ emitter.name = 'foo'
 emitter.value = 42
 # >>> emitter value is 42
 ```
+
+## Contributing
+
+Contributions are welcome!
+
+If you want to contribute through code or documentation, please see the
+[Contributing Guide](CONTRIBUTING.md) for information.
+
+## License
+
+This project is released under the MIT License. See the [LICENSE](LICENSE.txt) file
+for more information.
